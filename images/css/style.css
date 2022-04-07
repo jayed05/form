@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+
+background: #F4F4F4;}
+.wrapper{
+
+width: 80%;margin: 100px auto;}
+
+.wrapper h2{
+
+text-align: center;font-size: 50px;font-weight: 400;margin: 100px 0;}
+.main_content{
+
+display: flex;background: #fff;;border-radius: 10px;overflow: hidden;box-shadow: -3px -2px 12px 3px #846e6e36;}
+
+.form{
+
+width: 50%;padding: 20px;/* display: flex; */}
+
+.form h1{
+
+/* margin: 20px; */font-size: 45px;font-weight: 400;margin: 30px 0;}
+
+.form p{
+
+   color: #666666;margin-top: 18px;}
+
+.informatin{
+
+    display: flex;justify-content: space-between;margin: 20px 0;}
+.informatin h3{
+
+   color: #00000033;}
+.informatin p{
+
+}
+.address{
+
+}
+
+.email{
+
+}
+.phone{
+
+}
+
+.image{
+
+   width: 50%;}
+
+.image img{
+
+   width: 100%;}
+
+form{
+
+}
+form input{
+
+   width: 100%;border: none;border-bottom: 2px solid #666;padding: 5px 0;margin-bottom: 20px;font-size: 18px;font-weight: 400;}
+form textarea{
+    
+    border: navajowhite;border-bottom: 1px solid #666;width: 100%;}
+form input:focus, form textarea:focus{
+    outline: none;
+    border-color:#666
+}
+form input[type=submit]{
+    background-color: #e3b04b;
+    width: auto;
+    padding: 15px 20px;
+    color:#fff;
+    border-radius: 5px;margin: 30px 0;}
+.follow{
+
+} 
+.follow h1{
+    font-size: ;
+}
+.follow ul{
+
+list-style: none;display: flex;}
+.follow ul li{
+
+margin-right: 150px;text-transform: uppercase;}
